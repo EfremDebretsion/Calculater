@@ -1,5 +1,5 @@
 public class calculater {
-    //this is very full 
+    //this is very full method
     public static double add(double num1, double num2){
         return num1 + num2;
     }
